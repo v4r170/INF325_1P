@@ -1,0 +1,173 @@
+﻿departamento,area,relacion,hijos,victima,denunciado,lugar,causa
+Oruro,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Cochabamba,Urbana,Otra pareja sentimental,No,18 a 26 (joven),18 a 26 (joven),Domicilio de la victima,Estrangulamiento
+Cochabamba,Urbana,Ex conviviente,No,18 a 26 (joven),18 a 26 (joven),Lugar de trabajo,Arma de fuego
+Cochabamba,Urbana,Conyuge,Si,60 a Mas años (adulta mayor),60 a Mas años (adulto mayor),Domicilio compartido,Golpe/traumatismo
+Cochabamba,Urbana,Conviviente,No,18 a 26 (joven),18 a 26 (joven),Domicilio compartido,Arma de fuego
+Cochabamba,Urbana,Desconocido,,60 a Mas años (adulta mayor),18 a 26 (joven),Via publica,Asfixia
+Cochabamba,Urbana,Desconocido,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio del agresor,Estrangulamiento
+La Paz,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Asfixia
+La Paz,Urbana,Familiar,No,13 a 17 (adolescente),18 a 26 (joven),Via publica,Asfixia
+La Paz,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Asfixia
+Cochabamba,Urbana,Otra relacion,No,27 a 59 (adulta),18 a 26 (joven),Domicilio de la victima,Arma de fuego
+La Paz,Urbana,Familiar,No,,,,Otra
+Cochabamba,Urbana,Conviviente,No,27 a 59 (adulta),,Domicilio compartido,Estrangulamiento
+Cochabamba,Urbana,Conyuge,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Golpe/traumatismo
+La Paz,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+La Paz,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Arma Blanca
+Pando,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Arma de fuego
+Pando,Urbana,Conviviente,Si,18 a 26 (joven),27 a 59 (adulto),Domicilio compartido,Arma de fuego
+Pando,Urbana,Conviviente,Si,18 a 26 (joven),18 a 26 (joven),Domicilio de la victima,Arma Blanca
+Cochabamba,Urbana,Conyuge,Si,27 a 59 (adulta),,Via publica,Golpe/traumatismo
+Cochabamba,Urbana,Otra relacion,No,18 a 26 (joven),27 a 59 (adulto),Domicilio del agresor,Arma de fuego
+La Paz,Urbana,Conviviente,No,27 a 59 (adulta),18 a 26 (joven),Domicilio compartido,Asfixia
+La Paz,Urbana,Conviviente,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Otra
+La Paz,Urbana,,No,27 a 59 (adulta),,Via publica,Estrangulamiento
+La Paz,Urbana,Otra pareja sentimental,No,,27 a 59 (adulto),Domicilio compartido,Asfixia
+La Paz,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),,Domicilio de la victima,Golpe/traumatismo
+La Paz,Urbana,Otra relacion,No,18 a 26 (joven),27 a 59 (adulto),Domicilio del agresor,Arma Blanca
+La Paz,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Arma Blanca
+La Paz,Urbana,Otra pareja sentimental,No,18 a 26 (joven),,Domicilio del agresor,Asfixia
+La Paz,Urbana,Conyuge,,27 a 59 (adulta),,Domicilio compartido,Arma Blanca
+La Paz,Urbana,Ex conviviente,No,18 a 26 (joven),18 a 26 (joven),Via publica,Arma Blanca
+La Paz,Urbana,Ex Pareja sentimental,No,27 a 59 (adulta),,Domicilio del agresor,Arma Blanca
+La Paz,Urbana,Ex Pareja sentimental,No,27 a 59 (adulta),,Domicilio del agresor,Asfixia
+La Paz,,Desconocido,No,,,Via publica,Otra
+La Paz,Rural,Desconocido,No,,,,
+La Paz,Urbana,Otra relacion,No,60 a Mas años (adulta mayor),18 a 26 (joven),Domicilio de la victima,Asfixia
+Tarija,Rural,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Estrangulamiento
+Tarija,Rural,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Tarija,Urbana,Ex conviviente,No,,18 a 26 (joven),Via publica,Golpe/traumatismo
+Tarija,Urbana,Conviviente,No,18 a 26 (joven),18 a 26 (joven),Via publica,Golpe/traumatismo
+Oruro,Urbana,Otra pareja sentimental,No,18 a 26 (joven),18 a 26 (joven),Lugar de estudios,Golpe/traumatismo
+Oruro,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Lugar de trabajo,Asfixia
+La Paz,Urbana,Conviviente,Si,18 a 26 (joven),18 a 26 (joven),Domicilio de la victima,Otra
+Oruro,Urbana,Familiar,No,27 a 59 (adulta),60 a Mas años (adulto mayor),Domicilio compartido,Arma Blanca
+La Paz,Urbana,Ex conviviente,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Asfixia
+Oruro,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Via publica,Golpe/traumatismo
+Tarija,Urbana,Desconocido,No,27 a 59 (adulta),18 a 26 (joven),Via publica,Golpe/traumatismo
+Tarija,Urbana,Otra relacion,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Arma de fuego
+Tarija,Urbana,Conyuge,Si,,27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Tarija,Rural,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Asfixia
+Oruro,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio del agresor,Asfixia
+Oruro,Urbana,Ex Pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Arma de fuego
+Oruro,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Golpe/traumatismo
+Oruro,Urbana,Conyuge,Si,27 a 59 (adulta),60 a Mas años (adulto mayor),Domicilio compartido,Golpe/traumatismo
+Oruro,Urbana,Conyuge,Si,18 a 26 (joven),18 a 26 (joven),Domicilio compartido,Golpe/traumatismo
+La Paz,Urbana,Desconocido,,,,Domicilio de la victima,Otra
+Oruro,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Arma Blanca
+La Paz,Urbana,Familiar,No,60 a Mas años (adulta mayor),27 a 59 (adulto),Domicilio de la victima,Otra
+La Paz,Urbana,Conyuge,No,18 a 26 (joven),,Via publica,Golpe/traumatismo
+La Paz,Urbana,Ex Pareja sentimental,No,18 a 26 (joven),27 a 59 (adulto),Domicilio del agresor,Asfixia
+La Paz,Urbana,Ex Pareja sentimental,No,18 a 26 (joven),16 a 17 (adolescente),Via publica,Golpe/traumatismo
+La Paz,Urbana,Ex Pareja sentimental,No,18 a 26 (joven),18 a 26 (joven),Via publica,Otra
+Cochabamba,Urbana,Desconocido,No,18 a 26 (joven),18 a 26 (joven),Via publica,Asfixia
+Cochabamba,Urbana,Conviviente,No,18 a 26 (joven),27 a 59 (adulto),Domicilio compartido,Asfixia
+Cochabamba,Urbana,Desconocido,No,18 a 26 (joven),18 a 26 (joven),Via publica,Estrangulamiento
+Cochabamba,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Via publica,Asfixia
+Cochabamba,Urbana,Otra relacion,No,18 a 26 (joven),18 a 26 (joven),Via publica,Estrangulamiento
+Chuquisaca,Urbana,Otra relacion,No,18 a 26 (joven),18 a 26 (joven),Domicilio del agresor,Golpe/traumatismo
+Chuquisaca,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Arma Blanca
+Chuquisaca,Urbana,Conviviente,Si,27 a 59 (adulta),,Domicilio compartido,Golpe/traumatismo
+Chuquisaca,Urbana,Otra pareja sentimental,Si,13 a 17 (adolescente),,Domicilio del agresor,
+Chuquisaca,Urbana,Otra pareja sentimental,No,18 a 26 (joven),18 a 26 (joven),Domicilio de la victima,Arma Blanca
+Chuquisaca,Rural,Conviviente,No,,27 a 59 (adulto),Domicilio compartido,Arma Blanca
+Cochabamba,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Arma Blanca
+Cochabamba,Urbana,Ex conviviente,No,18 a 26 (joven),27 a 59 (adulto),Via publica,Arma Blanca
+La Paz,Urbana,Ex Pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Golpe/traumatismo
+Cochabamba,Urbana,Otra pareja sentimental,No,60 a Mas años (adulta mayor),60 a Mas años (adulto mayor),Domicilio del agresor,Golpe/traumatismo
+Cochabamba,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Asfixia
+Cochabamba,Rural,Conyuge,Si,60 a Mas años (adulta mayor),60 a Mas años (adulto mayor),Domicilio compartido,Golpe/traumatismo
+Cochabamba,Urbana,Conviviente,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Golpe/traumatismo
+La Paz,Urbana,Otra pareja sentimental,No,18 a 26 (joven),18 a 26 (joven),Via publica,Golpe/traumatismo
+La Paz,Urbana,Conyuge,No,,27 a 59 (adulto),Domicilio compartido,Otra
+La Paz,Urbana,Conyuge,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Arma Blanca
+La Paz,Urbana,Ex Pareja sentimental,No,13 a 17 (adolescente),16 a 17 (adolescente),Domicilio del agresor,Golpe/traumatismo
+La Paz,Urbana,Ex Pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Asfixia
+Cochabamba,Urbana,Conviviente,No,18 a 26 (joven),,Domicilio compartido,Asfixia
+Cochabamba,Urbana,Conviviente,No,18 a 26 (joven),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Cochabamba,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Arma Blanca
+Cochabamba,Urbana,Ex conviviente,No,18 a 26 (joven),27 a 59 (adulto),Via publica,Arma de fuego
+Cochabamba,Urbana,Conviviente,No,18 a 26 (joven),18 a 26 (joven),Domicilio compartido,Estrangulamiento
+La Paz,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+La Paz,Urbana,Otra pareja sentimental,No,,27 a 59 (adulto),Via publica,Otra
+La Paz,,Desconocido,,18 a 26 (joven),,Domicilio de la victima,Asfixia
+La Paz,Urbana,Conviviente,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Arma Blanca
+La Paz,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Golpe/traumatismo
+La Paz,Urbana,Conviviente,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+La Paz,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Otra
+La Paz,Urbana,Otra relacion,No,13 a 17 (adolescente),18 a 26 (joven),Domicilio del agresor,Arma Blanca
+La Paz,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),,Asfixia
+La Paz,Urbana,Conyuge,Si,18 a 26 (joven),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+La Paz,Urbana,Otra relacion,No,18 a 26 (joven),18 a 26 (joven),Lugar de trabajo,Arma de fuego
+La Paz,Urbana,Desconocido,,,,,
+Santa Cruz,Urbana,Conyuge,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Estrangulamiento
+Cochabamba,Urbana,Otra relacion,No,60 a Mas años (adulta mayor),27 a 59 (adulto),Domicilio de la victima,Otra
+Cochabamba,Urbana,Otra pareja sentimental,No,18 a 26 (joven),18 a 26 (joven),Domicilio del agresor,Quemaduras
+La Paz,Urbana,Conviviente,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Cochabamba,Rural,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Via publica,Golpe/traumatismo
+Cochabamba,Urbana,Conviviente,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Arma de fuego
+La Paz,Urbana,Conviviente,Si,18 a 26 (joven),27 a 59 (adulto),Domicilio compartido,Otra
+La Paz,Urbana,Desconocido,No,27 a 59 (adulta),,Via publica,Golpe/traumatismo
+La Paz,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+La Paz,Urbana,Conyuge,No,27 a 59 (adulta),16 a 17 (adolescente),Via publica,Estrangulamiento
+Cochabamba,Rural,Conviviente,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Arma Blanca
+La Paz,Urbana,Conyuge,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Estrangulamiento
+Potosi,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Estrangulamiento
+Potosi,Rural,Conyuge,No,,,Domicilio compartido,Intoxicacion
+Oruro,Urbana,Compañero de estudios,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio del agresor,Golpe/traumatismo
+La Paz,Urbana,Conyuge,No,27 a 59 (adulta),60 a Mas años (adulto mayor),Via publica,Arma Blanca
+Oruro,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Oruro,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Arma de fuego
+La Paz,Urbana,Otra pareja sentimental,,,27 a 59 (adulto),Domicilio de la victima,Golpe/traumatismo
+Oruro,Urbana,Conyuge,No,18 a 26 (joven),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Oruro,Urbana,Conviviente,No,18 a 26 (joven),27 a 59 (adulto),Domicilio del agresor,Estrangulamiento
+Oruro,Urbana,Conviviente,Si,,27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+La Paz,Urbana,Conyuge,No,18 a 26 (joven),27 a 59 (adulto),Domicilio compartido,Asfixia
+Oruro,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Oruro,Urbana,Conyuge,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Asfixia
+La Paz,Urbana,Desconocido,No,27 a 59 (adulta),,Via publica,Golpe/traumatismo
+Oruro,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Golpe/traumatismo
+Oruro,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Oruro,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Cochabamba,Urbana,Conyuge,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Golpe/traumatismo
+Oruro,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Asfixia
+Cochabamba,Urbana,Otra relacion,No,27 a 59 (adulta),27 a 59 (adulto),Via publica,Asfixia
+La Paz,Urbana,Otra relacion,No,18 a 26 (joven),18 a 26 (joven),Domicilio del agresor,Otra
+La Paz,Urbana,Otra relacion,No,27 a 59 (adulta),60 a Mas años (adulto mayor),Lugar de trabajo,Arma de fuego
+Cochabamba,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),18 a 26 (joven),Domicilio del agresor,Asfixia
+La Paz,Urbana,Otra relacion,No,13 a 17 (adolescente),18 a 26 (joven),Domicilio del agresor,Arma Blanca
+Cochabamba,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Via publica,Intoxicacion
+La Paz,Urbana,Otra relacion,No,13 a 17 (adolescente),16 a 17 (adolescente),Domicilio del agresor,Golpe/traumatismo
+La Paz,Urbana,Conviviente,No,18 a 26 (joven),18 a 26 (joven),Domicilio compartido,Arma Blanca
+Santa Cruz,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Arma Blanca
+Santa Cruz,Urbana,Conyuge,No,18 a 26 (joven),27 a 59 (adulto),Domicilio compartido,Otra
+Santa Cruz,Rural,Familiar,No,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Arma Blanca
+Santa Cruz,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Golpe/traumatismo
+Santa Cruz,Urbana,Otra pareja sentimental,No,13 a 17 (adolescente),18 a 26 (joven),Lugar de estudios,Estrangulamiento
+Oruro,Urbana,Conyuge,Si,27 a 59 (adulta),,Via publica,Quemaduras
+Santa Cruz,Urbana,Otra relacion,,27 a 59 (adulta),27 a 59 (adulto),,Otra
+Santa Cruz,Urbana,Conviviente,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Santa Cruz,Urbana,Conviviente,Si,18 a 26 (joven),27 a 59 (adulto),Domicilio del agresor,Estrangulamiento
+Santa Cruz,,Familiar,No,13 a 17 (adolescente),27 a 59 (adulto),Domicilio de la victima,
+Santa Cruz,,Conyuge,,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Golpe/traumatismo
+Santa Cruz,Urbana,,,,,,
+Oruro,Urbana,Compañero de estudios,No,27 a 59 (adulta),27 a 59 (adulto),Lugar de trabajo,Arma de fuego
+Oruro,Urbana,Ex conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Golpe/traumatismo
+Tarija,Rural,Conyuge,No,18 a 26 (joven),18 a 26 (joven),Domicilio de la victima,Arma de fuego
+Potosi,Urbana,Conyuge,Si,,,Domicilio compartido,Otra
+Tarija,Rural,,No,18 a 26 (joven),18 a 26 (joven),Via publica,Golpe/traumatismo
+Oruro,Urbana,Conyuge,Si,18 a 26 (joven),18 a 26 (joven),,Golpe/traumatismo
+Potosi,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),,Lugar de trabajo,Asfixia
+Tarija,Urbana,Otra pareja sentimental,No,27 a 59 (adulta),18 a 26 (joven),Domicilio del agresor,Arma Blanca
+Oruro,Urbana,Compañero de trabajo,No,18 a 26 (joven),18 a 26 (joven),Lugar de trabajo,Estrangulamiento
+Tarija,Urbana,Ex conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Arma de fuego
+Potosi,Urbana,Conyuge,Si,18 a 26 (joven),18 a 26 (joven),Domicilio compartido,Arma Blanca
+Potosi,Rural,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Domicilio compartido,Golpe/traumatismo
+Potosi,Urbana,Conyuge,Si,27 a 59 (adulta),27 a 59 (adulto),Via publica,Asfixia
+Potosi,Urbana,Otra relacion,No,13 a 17 (adolescente),18 a 26 (joven),Via publica,Asfixia
+Potosi,Urbana,Desconocido,No,18 a 26 (joven),27 a 59 (adulto),Via publica,Golpe/traumatismo
+Santa Cruz,Urbana,Conviviente,,27 a 59 (adulta),27 a 59 (adulto),Domicilio de la victima,Golpe/traumatismo
+Beni,Urbana,Conviviente,Si,27 a 59 (adulta),,Domicilio compartido,Golpe/traumatismo
+Beni,Urbana,Conviviente,No,60 a Mas años (adulta mayor),,Domicilio compartido,Arma Blanca
+Beni,Urbana,Conyuge,Si,27 a 59 (adulta),,Domicilio compartido,Estrangulamiento
